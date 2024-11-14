@@ -43,6 +43,10 @@ Utilized bar in bar chart for sales analysis and bar chart for profit analysis.
 Customer Dashboard focuses on customer trends and segmentation, revealing insights into customer loyalty and profitability.
 
 ### 1. Summary of total customers, sales per customer, and orders.
+![Customer dashboard KPI](https://github.com/user-attachments/assets/6288d65c-cfd0-4952-90ad-4c542d294f11)
+
+### 2. Top 10 customers by profit along with the number of orders.
+
 
 
 
