@@ -46,6 +46,8 @@ Customer Dashboard focuses on customer trends and segmentation, revealing insigh
 ![Customer dashboard KPI](https://github.com/user-attachments/assets/6288d65c-cfd0-4952-90ad-4c542d294f11)
 
 ### 2. Top 10 customers by profit along with the number of orders.
+![Customer Dashboard distribution along with the top 10](https://github.com/user-attachments/assets/c080d165-0976-485c-a5f6-6a9e8e955c4b)
+
 
 
 
