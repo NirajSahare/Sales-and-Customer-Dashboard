@@ -9,7 +9,7 @@ This project presents two interactive dashboards that provide a comprehensive vi
 1. Summary of total sales, profits, and quantity.
 2. Yearly sales and profit trends.
 3. Product subcategory comparisons.
-4. Weekly sales and profit analysis.
+4. Sales and profit analysis over time.
 ### Customer Dashboard Includes:
 1. Summary of total customers, sales per customer, and orders.
 2. Customer trends and segmentation.
@@ -34,5 +34,9 @@ Utilized key performance indicators(KPI) to demonstrate total sales, profits, qu
 
 ### 2. Yearly sales and profit trends along with product subcategory comparisons.
 Utilized bar in bar chart for sales analysis and bar chart for profit analysis.
+![Trends in sales and profit](https://github.com/user-attachments/assets/ed4f06ae-827c-488c-a2ca-40c809e63845)
+
+### 3. Sales and profit trends over time.
+
 
    
