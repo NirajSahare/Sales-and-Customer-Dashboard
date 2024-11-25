@@ -29,7 +29,7 @@ GitHub for project documentation and version control.
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
 ### 1. Summary of total sales, profits, and quantity for the current year and the previous year.
-Utilized key performance indicators(KPI) to demonstrate total sales, profits, quantity along with the months with highest and lowest values for the current year.
+Utilized key performance indicators(KPI) to demonstrate total sales, profits, quantity monthly with highest and lowest values for the current year.
 ![KPI](https://github.com/user-attachments/assets/424d846f-2e84-4cc9-a43a-3df5785a2f93)
 
 ### 2. Yearly sales and profit trends along with product subcategory comparisons.
