@@ -26,10 +26,12 @@ GitHub for project documentation and version control.
 3. Explore: Interact with the dashboards to filter data, explore visualizations, and gain insights.
 
 ### Overview of dashboard:
-The analysis indicates substantial year-over-year growth across all key metrics. However, during the current year, profits experienced a significant decline following a 
-sharp spike after the first three months. The same trend is also followed by total sales per customer in customer dashboard. This trend warrants further investigation to
-identify potential underlying factors. Possible reasons for the fluctuation may include inflationary pressures, pricing strategy adjustments, seasonal demand variations, 
-supply chain disruptions, shifts in customer behavior.
+The analysis reveals substantial year-over-year growth across all key metrics. However, **during the current year, profits** have experienced a significant decline following a 
+sharp spike in the first three months. A similar trend is observed in the **total sales per customer**, as reflected in the customer dashboard. This pattern warrants further 
+investigation to uncover potential underlying factors. Possible causes for these fluctuations may include inflationary pressures, pricing strategy adjustments, seasonal 
+demand variations, supply chain disruptions, shifts in customer behavior.
+
+A deeper analysis of these factors can provide valuable insights for addressing these fluctuations and optimizing business strategies.
 
 ## Sales Dashboard Purpose:
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
@@ -42,13 +44,13 @@ total profit**, and a **26.38% growth in total quantity sold** compared to the p
 ![KPI](https://github.com/user-attachments/assets/424d846f-2e84-4cc9-a43a-3df5785a2f93)
 
 ### 2. Yearly sales and profit trends along with product subcategory comparisons.
-With the exception of machines, envelopes, and fasteners, sales for all other product categories have shown an increase. However, losses have been observed in the sales of products 
+**With the exception of machines, envelopes, and fasteners**, sales for all other product categories have shown an increase. However, losses have been observed in the sales of products 
 such as tables, machines, and supplies. This decline in performance may be attributed to the impact of discounting and promotional offers applied to these product categories.
 
 ![Trends in sales and profit](https://github.com/user-attachments/assets/ed4f06ae-827c-488c-a2ca-40c809e63845)
 
 ### 3. Sales and profit trends over time.
-The analysis showcases that while total sales have been consistently increasing, profits have remained within an average range of values. This indicates that despite higher sales volumes, 
+The analysis showcases that while total sales have been consistently increasing, **profits have remained within an average range** of values. This indicates that despite higher sales volumes, 
 profitability has not experienced a proportional increase, potentially due to factors such as pricing strategies, cost structures, or the impact of discounts and promotions.
 
 ![Trends over time](https://github.com/user-attachments/assets/e6e60af7-3278-4691-af4d-ab90a65cb958)
