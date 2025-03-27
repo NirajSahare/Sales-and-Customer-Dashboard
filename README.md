@@ -20,8 +20,6 @@ This project presents two interactive dashboards that provide a comprehensive vi
 
 **🛍️ Customer Segmentation:** Understands customer preferences, purchase frequency, and loyalty.
 
-**📍 Geographical Trends:** Determines regions with the highest sales and potential growth areas.
-
 **💰 Profitability Analysis:** Identifies high-margin products and underperforming categories.
 
 **📊 Sales Forecasting:** Uses historical data to predict future sales trends.
