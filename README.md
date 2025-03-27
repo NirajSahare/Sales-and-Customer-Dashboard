@@ -55,6 +55,8 @@ profitability has not experienced a proportional increase, potentially due to fa
 
 ![Trends over time](https://github.com/user-attachments/assets/e6e60af7-3278-4691-af4d-ab90a65cb958)
 
+![Image](https://github.com/user-attachments/assets/ab136f65-27b3-4769-a3b4-428b1623dd2f)
+
 ## Customer Dashboard Purpose:
 Customer Dashboard focuses on customer trends and segmentation, revealing insights into customer loyalty and profitability.
 
