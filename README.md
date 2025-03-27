@@ -1,4 +1,4 @@
-# Sales and Customer Dashboard
+# 📊 Sales and Customer Dashboard
 ## Project Description:
 
 This project presents two interactive dashboards that provide a comprehensive view of sales performance and customer insights. The Sales Dashboard highlights key metrics, trends, and comparisons that inform business growth, while the Customer Dashboard focuses on customer trends and segmentation, revealing insights into customer loyalty and profitability.
