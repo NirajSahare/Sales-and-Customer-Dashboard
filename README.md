@@ -6,16 +6,24 @@ This project presents two interactive dashboards that provide a comprehensive vi
 # 📂 Key Features:
 
 ✔ Sales Performance – Analyzes revenue, profit margins, and sales trends over time.
+
 ✔ Customer Analysis – Identifies customer demographics, behavior, and buying patterns.
+
 ✔ Regional Trends – Displays sales distribution across different locations.
+
 ✔ Product Insights – Highlights best-selling products and revenue contribution.
+
 ✔ Comparative Analysis – Tracks performance against previous periods and industry benchmarks.
 
 # 📌 Key Insights & Trends
 📈 Revenue Growth: Shows monthly/quarterly/yearly revenue patterns to identify peak sales periods.
+
 🛍️ Customer Segmentation: Understands customer preferences, purchase frequency, and loyalty.
+
 📍 Geographical Trends: Determines regions with the highest sales and potential growth areas.
+
 💰 Profitability Analysis: Identifies high-margin products and underperforming categories.
+
 📊 Sales Forecasting: Uses historical data to predict future sales trends.
 
 ## Technologies:
