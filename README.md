@@ -73,6 +73,9 @@ driving long-term profitability.
 
 ![Customer Dashboard distribution along with the top 10](https://github.com/user-attachments/assets/c080d165-0976-485c-a5f6-6a9e8e955c4b)
 
+![Image](https://github.com/user-attachments/assets/c343b070-cb4a-423a-b7fe-730f55f63568)
+
+
 
 
 
